@@ -6,7 +6,7 @@ More eddies found on bodies and stacks lying around in Night City.
 
 Modded | Vanilla
 :-------------------------:|:-------------------------:
-![](https://staticdelivery.nexusmods.com/mods/3333/images/thumbnails/6166/6166-1666986498-779682129.jpeg) | ![](https://staticdelivery.nexusmods.com/mods/3333/images/thumbnails/6166/6166-1666986534-367021185.jpeg)
+![](https://staticdelivery.nexusmods.com/mods/3333/images/6166/6166-1666986498-779682129.jpeg) | ![](https://staticdelivery.nexusmods.com/mods/3333/images/6166/6166-1666986534-367021185.jpeg)
 
 ## Mod page on Nexus Mods and Redmod version
 
